@@ -1,6 +1,6 @@
 env:
-  repo:         "https://github.com/akhasa2001/simple-website.git"
-  project_id:   "terraform-project-akhasa1"
+  repo:         "https://github.com/akhasa2001/simple-website.git" # change it to your own repo HTTPS URL
+  project_id:   "terraform-project-akhasa1" # change the project ID
   repo_region:  "us-central1"
   app_name:     "simple-website"
   registry_name: "docker-registry"
